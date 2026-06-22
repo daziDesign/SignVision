@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.vite/
+*.log
+signvision-*.png
+参考资料/
